@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Levi Augusto Araujo Oliveira, tenho 19 anos e sou natural de Brasília. Concluí o ensino médio no CMB (Colégio Militar de Brasília). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na faculdade SENAC. Busco aprender cada vez, para desenlvolver minhas habilidades. Sou uma pessoa dedicada, responsável e comprometida com aquilo que eu faço. Procuro aproveitar as oportunidades para aprender, evoluir, desenvolver, tanto profissionalmente quanto pessoalmente.
+Me chamo Levi Augusto Araujo Oliveira, tenho 19 anos e sou natural de Brasília. Concluí o ensino médio no CMB (Colégio Militar de Brasília). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na faculdade SENAC. Busco aprender cada vez, para desenvolver minhas habilidades. Sou uma pessoa dedicada, responsável e comprometida com aquilo que eu faço. Procuro aproveitar as oportunidades para aprender, evoluir, desenvolver, tanto profissionalmente quanto pessoalmente.
 
 ---
 
